@@ -4,3 +4,7 @@ Pozwolę sobie przypomnieć w poprzednich częściach, które rozmontowaliśmy:
  1. Strony docelowe i ruch https://github.com/OlehPetraniuk/createlanding/blob/master/Part%201.doc
  2. Hipotezy i grupa docelowa https://github.com/OlehPetraniuk/createlanding/blob/master/Part%202.doc
  3. Potrzeby i korzyści klienta https://github.com/OlehPetraniuk/createlanding/blob/master/Part%203.doc
+
+Zalety testów zderzeniowych
+Jeśli poznaliśmy wszystkie informacje od prawdziwych klientów, to ten test można pominąć. Jeśli określimy korzyści płynące z klientów, zajmując ich miejsce i myśląc o ich zachowaniu, musimy ściśle przetestować je z prawdziwym światem, prawdziwymi ludźmi. Im więcej ludzi potwierdzi nasze myśli poprzez testowanie, tym lepiej. Nawet gdybyśmy mieli doświadczenie w kontaktach z klientami, kolejny test nigdy się nie skończy.
+Największa liczba respondentów daje najdokładniejsze zrozumienie "czego chcą klienci", co oznacza, że możemy zaoferować najlepsze rozwiązanie ich problemu i dlatego będziemy zarabiać więcej.
