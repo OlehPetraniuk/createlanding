@@ -1,1 +1,6 @@
 Część 4: Testowanie korzyści i analiza konkurencji
+Różne testy często przynoszą dość nieoczekiwane wyniki. Taka jest ich wartość. Testowanie pomaga nam zrozumieć, czy nasza hipoteza jest poprawna, jak dokładnie zdefiniowaliśmy grupę docelową oraz w jaki sposób zrozumieliśmy jej problemy, wartości, kryteria wyboru i jak dokładnie do niej doszliśmy dzięki tekstowi sprzedaży, stronie docelowej, stronie internetowej, reklamie. Zacznijmy testować.
+Pozwolę sobie przypomnieć w poprzednich częściach, które rozmontowaliśmy:
+ 1. Strony docelowe i ruch https://github.com/OlehPetraniuk/createlanding/blob/master/Part%201.doc
+ 2. Hipotezy i grupa docelowa https://github.com/OlehPetraniuk/createlanding/blob/master/Part%202.doc
+ 3. Potrzeby i korzyści klienta https://github.com/OlehPetraniuk/createlanding/blob/master/Part%203.doc
